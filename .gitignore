@@ -1,0 +1,10 @@
+# files ends with *.o
+boxdraw.o
+hb.o
+st.o
+x.o
+# custom config library
+config.h
+# executable
+st
+st.desktop
